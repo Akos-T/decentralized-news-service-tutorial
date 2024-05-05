@@ -36,7 +36,7 @@ https://functions.chain.link/playground/b44eba0d-4498-48c5-a675-81780fc6873e
 
 ## How to run the frontend?
 
-0. **Prerequisite:** Have the smart contract deployed
+0. **Prerequisite:** Have the smart contract deployed and run sendRequest a few times
 1. Clone the repository
 2. Run `npm install` within the `frontend` folder
 3. Create a `.env` file in the project root folder with the following content:
